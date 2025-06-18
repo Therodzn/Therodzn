@@ -8,7 +8,4 @@
 > Hoje, estou em constante busca por evolução. Não basta apenas saber programar — quero entender o impacto real da tecnologia no mundo e usá-la para construir algo que vá além do código: algo que inspire, conecte e transforme.
 
 # Ferramentas 
-![img icons8](https://github.com/user-attachments/assets/bd5c2a88-40d2-402e-b899-a70151209036)
-
-![1736445932939](https://github.com/user-attachments/assets/2a2971cd-b986-4ab1-a1bf-67f83c40d4ba)
-
+![img icons8](https://github.com/user-attachments/assets/6c77fc52-9d3b-49d5-acd7-5642ec17686b)
